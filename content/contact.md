@@ -5,7 +5,7 @@ type: default
 
 ## Email
 
-You can email me at [andrew.casey@monash.edu](mailto:andrew.casey@monash.edu).
+You can email me at [andrew.casey@monash.edu](mailto:andrew.casey@monash.edu). My office and mobile phone numbers are listed in my email signature. So if we have had some correspondence, you can probably find my phone numbers in your email inbox.
 
 I usually don't respond to emails on weekends or outside of working hours. My normal working day starts early (between 4am and 6am is not uncommon) and ends when I have family commitments, or when I get tired. I try to achieve _Inbox Zero_ on fridays, but it doesn't always work.
 
