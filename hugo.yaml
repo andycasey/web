@@ -18,6 +18,11 @@ markup:
 
 menu:
   main:
+    - name: About
+      pageRef: /about
+      weight: 0
+      params:
+        icon: user
     - name: Posts
       pageRef: /docs
       weight: 1
