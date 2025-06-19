@@ -1,19 +1,39 @@
 ---
 title: Teaching
-type: docs
-next: something
+toc: false
+
+cascade:
+  type: docs
 ---
 
-This is a demo of the theme's documentation layout.
+I've created and taught a number of courses at the undergraduate and graduate level, and I have supervised many students in their research projects. 
+This page is a collection of teaching resources that I have created.
 
-## Hello, World!
+> [!WARNING]
+> These resources are incomplete. They are still being migrated over from [my old website](https://astrowizici.st/archived). 
 
-```go {filename="main.go"}
-package main
+{{< cards >}}
 
-import "fmt"
+  {{< card
+        title="Data Analysis"
+        link="data-analysis"
+        image="data-analysis.png"
+        subtitle="Principled data analysis for graduate students in the physical sciences"
+  >}}
 
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+  {{< card
+        title="Machine Learning"
+        link="machine-learning"
+        subtitle="An introductory course on machine learning for graduate students in the physical sciences"
+        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
+
+  {{< card
+        title="Scientific Computing"
+        subtitle="An introduction to scientific computing with Python"
+        link="scientific-computing"
+        imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  >}}
+
+{{< /cards >}}
+

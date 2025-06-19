@@ -18,11 +18,8 @@ markup:
 
 menu:
   main:
-    - name: About
-      pageRef: /about
-      weight: 1
     - name: Posts
-      pageRef: /docs
+      pageRef: /posts
       weight: 2
     - name: Research
       pageRef: /research
@@ -30,22 +27,37 @@ menu:
     - name: Teaching
       pageRef: /teaching
       weight: 4
+    - name: Code
+      pageRef: /code
+      weight: 5      
     - name: Contact
       pageRef: /contact
-      weight: 5    
+      weight: 6    
     - name: Search
-      weight: 6
+      weight: 7
       params:
         type: search
     - name: GitHub
-      weight: 7
+      weight: 8
       url: "https://github.com/andycasey"
       params:
         icon: github
+    - name: LinkedIn
+      weight: 9
+      url: "https://www.linkedin.com/in/andrew-casey/"
+      params:
+        icon: linkedin
 
 enableGitInfo: true
 
 params:
+  theme:
+    default: system
+    displayToggle: true
+
+  page:
+    width: wide
+
   navbar:
     displayTitle: true
     displayLogo: false
