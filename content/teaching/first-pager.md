@@ -1,5 +1,5 @@
 ---
-title: First page 2
+title: First pager
 type: docs
 prev: /
 ---
