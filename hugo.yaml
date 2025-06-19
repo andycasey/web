@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Andy Casey
 
 # import hextra as module
 module:
@@ -18,17 +18,20 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: Posts
       pageRef: /docs
       weight: 1
-    - name: About
+    - name: Research
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: Teaching
+      pageRef: /teaching
       weight: 3
+    - name: Contact
+      pageRef: /contact
+      weight: 4    
     - name: Search
-      weight: 4
+      weight: 5
       params:
         type: search
     - name: GitHub
@@ -36,11 +39,6 @@ menu:
       url: "https://github.com/imfing/hextra-starter-template"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
 
 params:
   navbar:
@@ -49,7 +47,7 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: true
