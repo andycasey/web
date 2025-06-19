@@ -4,8 +4,6 @@ type: blog
 width: full
 ---
 
-I regularly give talks on research, outreach, and everything else.
-
 # Research talks
 
 {{< cards >}}
