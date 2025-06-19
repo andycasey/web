@@ -1,5 +1,6 @@
 ---
 title: Teaching
+type: docs
 next: something
 ---
 
