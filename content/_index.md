@@ -18,7 +18,7 @@ I never intended to be an astronomer, but everyone makes mistakes.
 
 {{< cards >}}
   {{< card link="cv-brief.pdf" title="Brief CV (2 page)" icon="document" >}}
-  {{< card link="cv.pdf" title="Complete CV" icon="document" >}}
+  {{< card link="cv.pdf" title="Complete CV" icon="document-duplicate" >}}
 
 {{< /cards >}}
 
