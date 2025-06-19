@@ -1,6 +1,6 @@
 ---
-title: First page
-type: teaching
+title: First page 2
+type: docs
 prev: /
 ---
 
