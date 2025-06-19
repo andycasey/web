@@ -6,8 +6,7 @@ cascade:
   type: docs
 ---
 
-I've created and taught a number of courses at the undergraduate and graduate level, and I have supervised many students in their research projects. 
-This page is a collection of teaching resources that I have created.
+I've created and taught a number of courses at the undergraduate and graduate level. This site includes a collection of teaching resources that I have created.
 
 > [!WARNING]
 > These resources are incomplete. They are still being migrated over from [my old website](https://astrowizici.st/archived). 

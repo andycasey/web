@@ -27,23 +27,29 @@ menu:
     - name: Teaching
       pageRef: /teaching
       weight: 4
+    - name: Network
+      pageRef: /network
+      weight: 5
     - name: Code
       pageRef: /code
-      weight: 5      
+      weight: 6
+    - name: Talks
+      pageRef: /talks
+      weight: 7
     - name: Contact
       pageRef: /contact
-      weight: 6    
+      weight: 8    
     - name: Search
-      weight: 7
+      weight: 9
       params:
         type: search
     - name: GitHub
-      weight: 8
+      weight: 10
       url: "https://github.com/andycasey"
       params:
         icon: github
     - name: LinkedIn
-      weight: 9
+      weight: 11
       url: "https://www.linkedin.com/in/andrew-casey/"
       params:
         icon: linkedin
