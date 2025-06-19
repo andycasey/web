@@ -9,7 +9,7 @@ cascade:
 I've created and taught a number of courses at the undergraduate and graduate level. This site includes a collection of teaching resources that I have created.
 
 > [!WARNING]
-> These resources are incomplete. They are still being migrated over from [my old website](https://astrowizici.st/archived). 
+> These resources are incomplete. They are still being migrated over from [my old website](https://andycasey.github.io/). 
 
 {{< cards >}}
 
