@@ -4,7 +4,7 @@ type: default
 toc: false
 width: full
 ---
-{{< figure src="../me.png" alt="Andy Casey" caption="" width="200" >}}
+{{< figure src="me.png" alt="Andy Casey" caption="" width="200" >}}
 
 I'm an astrophysicist at [Monash University](https://monash.edu) in Melbourne, Australia.
 
