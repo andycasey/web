@@ -1,6 +1,6 @@
 ---
 title: Teaching
-next: first-page
+next: first-page2
 ---
 
 This is a demo of the theme's documentation layout.

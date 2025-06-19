@@ -1,6 +1,5 @@
 ---
 title: Research
-next: first-page
 ---
 
 Research.
