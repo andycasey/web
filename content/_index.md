@@ -17,7 +17,7 @@ I never intended to be an astronomer, but everyone makes mistakes.
 ### Curriculum Vitae
 
 {{< cards >}}
-  {{< card link="cv.pdf" title="Brief CV (2 page)" icon="document" >}}
+  {{< card link="cv-brief.pdf" title="Brief CV (2 page)" icon="document" >}}
   {{< card link="cv.pdf" title="Complete CV" icon="document" >}}
 
 {{< /cards >}}
@@ -26,6 +26,6 @@ I never intended to be an astronomer, but everyone makes mistakes.
 
 {{< cards >}}
     {{< card link="https://scholar.google.com/citations?user=lVpFF40AAAAJ&hl=en" title="Google Scholar" >}}
-    {{< card link="https://scholar.google.com/citations?user=lVpFF40AAAAJ&hl=en" title="NASA/ADS" >}}
+    {{< card link="https://ui.adsabs.harvard.edu/user/libraries/UM9dgiNHTkq4xp7588l7pg" title="NASA/ADS" >}}
     {{< card link="https://orcid.org/0000-0003-0174-0564" title="ORCID" >}}
 {{< /cards >}}
