@@ -16,46 +16,46 @@ I have a broad range of research interests. Each theme below represents a differ
 
   {{< card
         title="Computational data analysis"
-        link=""
+        link="data-analysis"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
   {{< card
         title="Interstellar medium"
-        link=""
+        link="ism"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
   {{< card
         title="Galaxy formation and evolution"
-        link=""
+        link="galaxies"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
   {{< card
         title="Exoplanets"
-        link=""
+        link="exoplanets"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
 
   {{< card
         title="Astrometry"
-        link=""
+        link="astrometry"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
 
   {{< card
         title="Population inference with imperfect selection functions"
-        link=""
+        link="population-inference"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
 
   {{< card
         title="Gravitational waves"
-        link=""
+        link="gravitational-waves"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
@@ -76,11 +76,5 @@ Each card below represents a recent publication.
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
-  {{< card
-        link="https://github.com/claceio/clace"
-        title="Clace"
-        image="https://github.com/user-attachments/assets/af4dbd21-a492-48dd-96fd-8542c548bd03"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
 
 {{< /cards >}}

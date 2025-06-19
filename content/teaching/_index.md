@@ -23,8 +23,8 @@ I've created and taught a number of courses at the undergraduate and graduate le
   {{< card
         title="Machine Learning"
         link="machine-learning"
+        image="machine-learning.png"
         subtitle="An introductory course on machine learning for graduate students in the physical sciences"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
   {{< card
