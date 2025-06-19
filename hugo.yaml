@@ -20,27 +20,25 @@ menu:
   main:
     - name: About
       pageRef: /about
-      weight: 0
-      params:
-        icon: user
+      weight: 1
     - name: Posts
       pageRef: /docs
-      weight: 1
-    - name: Research
-      pageRef: /about
       weight: 2
+    - name: Research
+      pageRef: /research
+      weight: 3
     - name: Teaching
       pageRef: /teaching
-      weight: 3
+      weight: 4
     - name: Contact
       pageRef: /contact
-      weight: 4    
+      weight: 5    
     - name: Search
-      weight: 5
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 6
+      weight: 7
       url: "https://github.com/andycasey"
       params:
         icon: github

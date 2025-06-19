@@ -1,5 +1,6 @@
 ---
 title: Research
+type: blog
 ---
 
 Research.
