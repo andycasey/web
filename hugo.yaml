@@ -27,9 +27,6 @@ menu:
     - name: Teaching
       pageRef: /teaching
       weight: 4
-    - name: Network
-      pageRef: /network
-      weight: 5
     - name: Code
       pageRef: /code
       weight: 6
