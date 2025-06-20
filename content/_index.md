@@ -14,6 +14,9 @@ I've taught university-level classes in physics, data analysis, machine learning
 
 I never intended to be an astronomer, but everyone makes mistakes.
 
+> [!WARNING]
+> Some areas of this site are currently incomplete.
+
 ### Curriculum Vitae
 
 {{< cards >}}
@@ -29,6 +32,7 @@ I never intended to be an astronomer, but everyone makes mistakes.
     {{< card link="https://ui.adsabs.harvard.edu/user/libraries/UM9dgiNHTkq4xp7588l7pg" title="NASA/ADS" >}}
     {{< card link="https://orcid.org/0000-0003-0174-0564" title="ORCID" >}}
 {{< /cards >}}
+
 
 #### Attributions
 
