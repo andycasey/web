@@ -29,3 +29,9 @@ I never intended to be an astronomer, but everyone makes mistakes.
     {{< card link="https://ui.adsabs.harvard.edu/user/libraries/UM9dgiNHTkq4xp7588l7pg" title="NASA/ADS" >}}
     {{< card link="https://orcid.org/0000-0003-0174-0564" title="ORCID" >}}
 {{< /cards >}}
+
+#### Attributions
+
+This site uses [Hugo](https://gohugo.io/) with the [Hextra](https://github.com/imfing/hextra-starter-template) theme. The source code is available on [GitHub](https://github.com/andycasey/hextra-website).
+It was set up thanks to the help of a couple of my students, [Riley Thai](https://rileythai.com/) and [Tom Hilder](https://github.com/TomHilder). 
+
