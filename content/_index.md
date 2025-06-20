@@ -33,5 +33,5 @@ I never intended to be an astronomer, but everyone makes mistakes.
 #### Attributions
 
 This site uses [Hugo](https://gohugo.io/) with the [Hextra](https://github.com/imfing/hextra-starter-template) theme. The source code is available on [GitHub](https://github.com/andycasey/hextra-website).
-It was set up thanks to the help of a couple of my students, [Riley Thai](https://rileythai.com/) and [Tom Hilder](https://github.com/TomHilder). 
+It was set up thanks to the help of a couple of my student wizards, [Riley Thai](https://rileythai.com/) and [Tom Hilder](https://github.com/TomHilder). 
 
