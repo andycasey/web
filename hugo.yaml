@@ -76,3 +76,7 @@ params:
 
   displayUpdatedDate: true
   dateFormat: "2 January, 2006"
+
+services:
+  googleAnalytics:
+    ID: G-JSCV41XMP1
