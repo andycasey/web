@@ -15,7 +15,7 @@ I've taught university-level classes in physics, data analysis, machine learning
 I never intended to be an astronomer, but everyone makes mistakes.
 
 > [!WARNING]
-> Some areas of this site are currently incomplete.
+> Some areas of this site are currently incomplete while I migrate content from my old website.
 
 ### Curriculum Vitae
 
