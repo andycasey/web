@@ -13,7 +13,9 @@ tags:
 
 Academic mentoring is strange in many ways.
 
-I never intended to be an academic. I was working as an aerospace engineer when I decided to do a PhD in astrophysics. I had never taken any astronomy classes, so I had to play catch-up during my PhD. And throughout the PhD I never intended to stay in academia. It was only in the last year of my PhD that I thought I might stay for a postdoc. That means that early on I never really thought about forward-planning my academic career. My experience was very different to many of the excellent undergraduate students I have met and mentored today, who decided long ago that they wanted to be academics, and have been working towards that goal for years. My experience is simply that I was very late to start forward-planning my career, but I took initiative and got lucky in finding people who could advise me, even when I didn't think I needed that advice.
+I never intended to be an academic. I was working as an aerospace engineer when I decided to do a PhD in astrophysics. I had never taken any astronomy classes, so I had to play catch-up during my PhD. And throughout the PhD I never intended to stay in academia. It was only in the last year of my PhD that I thought I might stay for a postdoc. 
+
+That means that early on I never really thought about forward-planning my academic career. My experience was very different to many of the excellent undergraduate students I have met and mentored today, who decided long ago that they wanted to be academics, and have been working towards that goal for years. My experience is simply that I was very late to start forward-planning my career, but I took initiative and got lucky in finding people who could advise me, even when I didn't think I needed that advice.
 
 I've been lucky to have had some great mentors, and I have been lucky to have some bad ones. I learned a lot from the good ones, and I learned a lot very quickly from the bad ones. Much of my approach to mentoring comes from the good mentors I have had, and the bad ones I have learned from (e.g., "don't be like that").
 
