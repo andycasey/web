@@ -10,6 +10,7 @@ authors:
 tags:
   - research
   - grant-funding
+  - google-apps-script
 ---
 
 The [Australian Research Council](http://arc.gov.au) (ARC) administers the [National Competitive Grants Program](https://www.arc.gov.au/grants/national-competitive-grants-program) (NCGP), a significant component of Australia's investment in research and development.
