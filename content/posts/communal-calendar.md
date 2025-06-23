@@ -6,6 +6,10 @@ authors:
   - name: Andy Casey
     link: https://astrowizici.st
     image: ../../me.png
+
+  - name: Zach Way
+    link: 
+    image: ../zach-way-e1632157542151.jpeg
 tags:
   - career-advice
   - mentoring  
