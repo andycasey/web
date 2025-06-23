@@ -75,7 +75,7 @@ You'll need to replace the `CALENDAR_ID` variable with the Calendar ID you noted
 
 ### Authorise the script
 
-When you run the script for the first time, it will ask you to authorise it. You will need to give it permission to access your Google Calendar and your Google Forms. You only ahve to do this once. In Google Apps Script, select the `testEditAccess` from the dropdown menu and click the play button (▶️) to run it. This will prompt you to authorise the script.
+When you run the script for the first time, it will ask you to authorise it. You will need to give it permission to access your Google Calendar and your Google Forms. You only have to do this once. In Google Apps Script, select the `testEditAccess` from the dropdown menu and click the play button (▶️) to run it. This will prompt you to authorise the script.
 
 ### Share the Google Form
 
