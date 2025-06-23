@@ -34,7 +34,9 @@ After creating the Google Calendar, go to the settings for the calendar and note
 You're going to share this Google Form link with your trusted people. This Google Form has no questions. It just records the email address that you are currently logged in to. You can enable that in the Google Form settings.
 
 > [!WARNING]
-> Check in the Google Form settings that you haven't made the form restrictive to your institution. You want it to be open to anyone with the link, so that people from other institutions can fill it in.
+> Check in the Google Form settings that you haven't made the form restrictive to your institution. 
+> 
+> You want it to be open to anyone with the link, so that people from other institutions can fill it in.
 
 ### Write a short Google Apps Script
 
