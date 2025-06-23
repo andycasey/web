@@ -11,9 +11,7 @@ tags:
   - mentoring  
 ---
 
-I'm part of the [Sloan Digital Sky Survey](https://www.sdss.org) (SDSS). 
-
-There are a lot of people in SDSS, and there are a lot of telecons. All the telecon times were listed in different areas of the Wiki, in different timezones, and those telecons would routinely reschedule each semester to accommodate changing constraints of the participants. At any given time it was pretty hard to collate all the currently scheduled telecons, let alone convert them to your current timezone.
+I'm part of the [Sloan Digital Sky Survey](https://www.sdss.org) (SDSS). There are a lot of people in SDSS, and there are a lot of telecons. All the telecon times were listed in different areas of the Wiki, in different timezones, and those telecons would routinely reschedule each semester to accommodate changing constraints of the participants. At any given time it was pretty hard to collate all the currently scheduled telecons, let alone convert them to your current timezone.
 
 One sensible student, [Zach Way]() suggested that we should create a centralised calendar for all the telecons, so that people could see at a glance when they were happening, and avoid scheduling conflicts.
 
