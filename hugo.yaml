@@ -77,6 +77,16 @@ params:
   displayUpdatedDate: true
   dateFormat: "2 January, 2006"
 
+  comments:
+    enable: false
+    type: giscus
+
+    giscus:
+      repo: andycasey/web
+      repoId: R_kgDOO-Fgfw
+      category: General
+      categoryId: DIC_kwDOO-Fgf84Cr3Qe
+
 services:
   googleAnalytics:
     ID: G-JSCV41XMP1
