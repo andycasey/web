@@ -79,10 +79,23 @@ You'll need to replace the `CALENDAR_ID` variable with the Calendar ID you noted
 
 ### Authorise the script
 
+In the left hand side of Google Apps Script, select the "+" next to "Services". Google Calendar v3.
+
 When you run the script for the first time, it will ask you to authorise it. You will need to give it permission to access your Google Calendar and your Google Forms. You only have to do this once. In Google Apps Script, select the `testEditAccess` from the dropdown menu and click the play button (▶️) to run it. This will prompt you to authorise the script.
+
+### Set up the trigger
+
+We want the script to run when someone fills in the form. In Google Apps Script, navigate to the _Triggers_ button on the left (it looks like an alarm clock) and create a trigger. Use the following settings:
+
+- Choose which function to run: `onFormSubmit`
+- Select event source: `From form`
+- Select event type: `On form submit`
+
 
 ### Share the Google Form
 
 Now you can share the Google Form link with your trusted people. Put it on your Wiki, send it out in your email lists, Slack channels, or whatever. When they fill in the form, it will automatically add them as an editor to the Google Calendar.
 
 {{% /steps %}}
+
+Please add a reaction or comment if you found this useful!
