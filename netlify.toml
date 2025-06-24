@@ -5,6 +5,7 @@ command = "hugo --gc --minify -b ${DEPLOY_PRIME_URL}"
 [build.environment]
 HUGO_VERSION = "0.147.7"
 
-[redirects]
+[[redirects]]
 from = "/inference"
-to = "https://github.com"
+to = "/posts"
+force = true
