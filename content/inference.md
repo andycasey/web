@@ -1,6 +1,5 @@
 ---
-title: "Redirecting..."
-type: "redirect"
-redirectURL: "https://github.com"
-headless: true 
+type: redirect
+target: https://duckduckgo.com
 ---
+
