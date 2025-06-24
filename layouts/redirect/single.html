@@ -1,17 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>{{ .Title }}</title>
-    <link rel="canonical" href="{{ .Params.redirectURL }}">
-    <meta name="robots" content="noindex">
-    <meta charset="utf-8">
-    <meta http-equiv="refresh" content="0; url={{ .Params.redirectURL }}">
-    <script>
-        // Fallback for browsers that don't support meta refresh or for immediate redirect
-        window.location.replace("{{ .Params.redirectURL }}");
-    </script>
-</head>
-<body>
-    <p>If you are not redirected automatically, follow this <a href="{{ .Params.redirectURL }}">link</a>.</p>
-</body>
-</html>
+{{- template "alias.html" (dict "Permalink" .Params.target) -}}
