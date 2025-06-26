@@ -87,6 +87,12 @@ params:
       category: General
       categoryId: DIC_kwDOO-Fgf84Cr3Qe
 
+redirects:
+- force: true
+  from: /zoomer
+  status: 200
+  to: "https://github.com/andycasey"
+
 services:
   googleAnalytics:
     ID: G-JSCV41XMP1
