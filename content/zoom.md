@@ -6,4 +6,5 @@ hidden_from_menu: true
 menu:
   main:
     hide: true
+toc: false
 ---
