@@ -20,7 +20,7 @@ This is a short post about a problem I hit while working with JAX and complex nu
 
 ## The problem
 
-I am using JAX to optimise a function $f: \mathbb{C}^{p} \to \mathbb{R}$ that takes a complex tensor and returns a real value.
+I am using JAX to optimise a function $f: \mathbb{C}^{N} \to \mathbb{R}$ that takes a complex tensor and returns a real value.
 
 I'm using JAX's automatic differentiation to compute the gradient of this function. Now when you're dealing with complex numbers and autodifferentiation (in JAX, and probably elsewhere) there are different notations for the gradient. The [JAX Autodiff cookbook](https://jax.readthedocs.io/en/latest/notebooks/autodiff_cookbook.html#Complex-Differentiation) is a great resource for this.
 
@@ -39,10 +39,12 @@ As a result, I was computing the wrong gradients.
 
 If you're not sure if your problem is holomorphic or not, there is an easy workaround:
 ```python
+import jax
+import jax.numpy as jnp
 from jaxtyping import Array, Complex, Float
 
 # f_complex is my original function.
-# It takes a complex tensor of size `p` and returns a real value. 
+# It takes a complex tensor of size `N` and returns a real value. 
 def f_complex(Z: Complex[Array]) -> Float:
     return ...
 
@@ -53,7 +55,7 @@ def f(Zw: Float[Array]) -> Float:
 
 g = jax.grad(f)
 
-# If Z is a complex number, let's represent it as a (2*p)-sized tensor.
+# If Z is a complex number, let's represent it as a (2*N)-sized tensor.
 Zw = jnp.array([jnp.real(Z), jnp.imag(Z)])
 
 # Calculate initial loss and gradient
