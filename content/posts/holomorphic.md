@@ -13,19 +13,20 @@ tags:
   - gradients
   - holomorphic
   - autodiff
+math: true
 ---
 
 This is a short post about a problem I hit while working with JAX and complex numbers. It's mostly a reminder to myself, but is niche enough that it might appear in Google searches and help someone else.
 
 ## The problem
 
-I am using JAX to optimise a function $f: \mathbb{C} \to \mathbb{R}$ that takes a complex number as input and returns a real value.
+I am using JAX to optimise a function $f: \mathbb{C}^{p} \to \mathbb{R}$ that takes a complex tensor and returns a real value.
 
 I'm using JAX's automatic differentiation to compute the gradient of this function. Now when you're dealing with complex numbers and autodifferentiation (in JAX, and probably elsewhere) there are different notations for the gradient. The [JAX Autodiff cookbook](https://jax.readthedocs.io/en/latest/notebooks/autodiff_cookbook.html#Complex-Differentiation) is a great resource for this.
 
 I thought my function was holomorphic, so I promised this to JAX by telling it to compute the gradient with `holomorphic=True`:
 ```python
-grad = jax.grad(f, holomorphic=True)
+g = jax.grad(f_complex, holomorphic=True)
 ```
 
 Now this is just one part of my big problem that I am trying to optimise, so there were many other things that I could fiddle with. But through experimentation I was getting very strange results, and no amount of fiddling with other things would get me something sensible.
@@ -38,23 +39,26 @@ If you're not sure if your problem is holomorphic or not, there is an easy worka
 ```python
 from jaxtyping import Array, Complex, Float
 
-
-# f_complex is my original function that takes a complex number
-# and returns a real value. I thought it was holomorphic, but it isn't.
+# f_complex is my original function.
+# It takes a complex tensor of size `p` and returns a real value. 
 def f_complex(Z: Complex[Array]) -> Float:
     return ...
-    
+
+# This will be our new function.
 def f(Zw: Float[Array]) -> Float:
     # Zw has shape (2, ...): the real and imaginary parts
     return f_complex(Zw[0] + 1j * Zw[1])
 
 g = jax.grad(f)
 
-# If Z is a complex number, let's represent it as a 2D real array
+# If Z is a complex number, let's represent it as a (2*p)-sized tensor.
 Zw = jnp.array([jnp.real(Z), jnp.imag(Z)])
 
+# Calculate initial loss and gradient
 initial_loss = f(Zw)
 initial_grad = g(Zw)
 ```
 
-Don't assume holomorphicity! Holomorphism? Holomorphotics? We'll never know.
+That works. Don't assume holomorphicity! Holomorphism? Holomorphotics? Whatever.
+
+Don't assume it until you know what it is, and whether your function is it.
