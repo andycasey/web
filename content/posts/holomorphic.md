@@ -35,6 +35,8 @@ That was when I realised my problem was not [holomorphic](https://en.wikipedia.o
 
 As a result, I was computing the wrong gradients.
 
+## The solution
+
 If you're not sure if your problem is holomorphic or not, there is an easy workaround:
 ```python
 from jaxtyping import Array, Complex, Float
