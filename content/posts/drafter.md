@@ -25,6 +25,8 @@ The drafts will be created in Gmail, ready for me to review and send. This way, 
 
 And so my inbox doesn't get too cluttered with old drafts, the script will also delete any drafts older than about a month.
 
+The code is below. Once you've copied it to Google Apps Script, save it, and then you can run the `setupTrigger` function. That will ask you for authorization to run the script. Once authorized, try running the `setupTrigger` function again, and it will create the time-based triggers to check your inbox every few minutes, and delete old drafts every day.
+
 Here's the code:
 
 ```javascript
