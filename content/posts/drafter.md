@@ -1,7 +1,7 @@
 ---
 title: Drafter
 description: "Use AI to auto-draft positive and negative emails replies, then you can choose your own adventure."
-date: 2025-08-05
+date: 2025-08-04
 draft: true
 authors:
   - name: Andy Casey
