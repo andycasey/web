@@ -2,7 +2,6 @@
 title: Keep your email out of focus
 description: "You'll never guess what the best email productivity hack is!"
 date: 2025-08-03
-draft: true
 authors:
   - name: Andy Casey
     link: https://astrowizici.st
