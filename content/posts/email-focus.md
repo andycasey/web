@@ -71,13 +71,14 @@ crontab -e
 And add the following lines to your crontab file:
 
 ```bash
-0 8 * * * /usr/bin/open -a Spark
-30 8 * * * ~/scripts/kill_spark_if_inactive.sh
+0   8 * * * /usr/bin/open -a Spark
+30  8 * * * ~/scripts/kill_spark_if_inactive.sh
 30 16 * * * /usr/bin/open -a Spark
+0  17 * * * ~/scripts/kill_spark_if_inactive.sh
 ```
 
 {{% /steps %}}
 
-This will open Spark (my email client) at 8:00 AM, and then kill it at 8:30 AM if it is not the active application. It will then open Spark again at 4:30 PM, and kill it again if it is not the active application.
+This will open Spark (my email client) at 8:00 AM, and then kill it at 8:30 AM if it is not the active application. It will then open Spark again at 4:30 PM, and kill it again at 5:00 PM if it is not the active application.
 
 You're welcome in advance.
