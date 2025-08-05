@@ -28,7 +28,9 @@ For these reasons, I've come up with the best productivity hack ever.
 mkdir -p ~/scripts ~/logs
 ```
 
-### Create the script `~/scripts/kill_spark_if_inactive.sh`
+### Create the script
+
+Now let's create a script at `~/scripts/kill_spark_if_inactive.sh`
 
 The following script will check to see if your email client is active. If it is not active, it will kill your email client. If it is active, it will do nothing.
 
