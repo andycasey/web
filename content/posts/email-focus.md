@@ -34,6 +34,8 @@ Now let's create a script at `~/scripts/kill_spark_if_inactive.sh`
 
 The following script will check to see if your email client is active. If it is not active, it will kill your email client. If it is active, it will do nothing.
 
+I use [Spark](https://sparkmailapp.com/) as my email client, but you can change the script to suit your own needs.
+
 ```bash
 #!/bin/bash
 
