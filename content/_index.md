@@ -6,7 +6,8 @@ width: full
 ---
 {{< figure src="me.png" alt="Andy Casey" caption="" width="200" >}}
 
-I'm an astrophysicist at [Monash University](https://monash.edu) in Melbourne, Australia.
+
+I'm an associate professor at [Monash University](https://monash.edu) and research scientist at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/)'s [Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/).
 
 I research stars. I want to know what they're made of, and how they change with time, and I use stars as tracers to better understand exoplanets and galaxies. Most of my work involves computational data analysis and open-source software. For this reason, I've been fortunate enough to contribute to research in a lot of different domains. 
 

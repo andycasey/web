@@ -5,13 +5,13 @@ type: default
 
 ## Email
 
-You can email me at [andrew.casey@monash.edu](mailto:andrew.casey@monash.edu). My office and mobile phone numbers are listed in my email signature. So if we have had some correspondence, you can probably find my phone numbers in your email inbox.
+You can email me at [andrew.casey@monash.edu](mailto:andrew.casey@monash.edu) or [acasey@flatironinstitute.org](mailto:acasey@flatironinstitute.org). My office and mobile (cell) phone numbers are listed in my email signature. So if we have had some correspondence, you can probably find my phone numbers in your email inbox.
 
 I usually don't respond to emails on weekends or outside of working hours. My normal working day starts early (between 4am and 6am is not uncommon) and ends when I have family commitments, or when I get tired. I try to achieve _Inbox Zero_ on fridays, but it doesn't always work.
 
 ## Schedule a meeting
 
-You don't need to email me to schedule a meeting. Just send a Google Calendar invite to andrew.casey@monash.edu. That calendar is publicly available and is usually the best reflection of my availability. A view of that calendar is embedded below on this page.
+You don't need to email me to schedule a meeting. Just send a Google Calendar invite to `andrew.casey@monash.edu` or `acasey@flatironinstitute.org`. Those calendars are synchronized and you're able to publicly view my availability. They're usually the best reflection of my availability. A view of that calendar is embedded below on this page.
 
 A few things to note:
 
@@ -35,9 +35,20 @@ I follow these rules to maintain my own productivity and to ensure that you have
 
 ## Locations
 
-The default place I schedule meetings is my office.
+### Flatiron Institute
+
+```
+CCA 609
+162 5th Ave
+New York, NY 10010
+```
+
+<p><div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=40.74049106112868%2C-73.9908988677044&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></p>
+
 
 ### Monash University
+
+At Monash, the default place I schedule for meetings is my office.
 
 ```
 134, 10 College Walk
@@ -45,7 +56,7 @@ School of Physics and Astronomy, Monash University
 Wellington Road, Clayton, VIC 3800
 ```
 
-<p><div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=-37.910183%2C145.130998&t=&z=14&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.utilitysavingexpert.com">Utility Saving Expert</a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></p>
+<p><div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=-37.910183%2C145.130998&t=&z=14&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></p>
 
 See the [Monash University Clayton campus map (PDF)](https://www.monash.edu/__data/assets/pdf_file/0010/71686/3-Claytoncolour.pdf) for more details.
 
