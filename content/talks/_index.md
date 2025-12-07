@@ -21,7 +21,7 @@ width: full
   link="https://youtu.be/ljc7iX7AR5Q"
   image="https://i9.ytimg.com/vi/ljc7iX7AR5Q/mq2.jpg?sqp=CKil2MkG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgYihMMA8=&rs=AOn4CLCIMLBozUOPN49VFQg8c2HEksIXiw"
   title="Introduction to Gaussian Processes"
-  subtitle="An introduction to Gaussian Processes, given as part of the Data Analysis Tutorials held in 2025 at the Center for Computational Astrophysics at the Flatiron Institute"
+  subtitle="A blackboard talk introduction to Gaussian Processes, given as part of the Data Analysis Tutorial series at the Center for Computational Astrophysics at the Flatiron Institute"
   imageStyle="object-fit:cover; aspect-ratio:16/9;"
   tagType="error"
   >}}
