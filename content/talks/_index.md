@@ -10,7 +10,7 @@ width: full
 {{< cards >}}
   {{< card
   link="https://youtu.be/-7VOu8ZlhLI"
-  image="https://i9.ytimg.com/vi/-7VOu8ZlhLI/mq1.jpg?sqp=CKil2MkG&rs=AOn4CLAQYuLJYrrlqKrwuIwM1gKZB0m--A"
+  image="https://img.youtube.com/vi/-7VOu8ZlhLI/hqdefault.jpg"
   title="Dear NASA: ADS. SciX. WTF?"
   subtitle="A Coffee Talk about NASA's Astrophysics Data System, given at the Flatiron Institute's Center for Computational Astrophysics in New York City"
   imageStyle="object-fit:cover; aspect-ratio:16/9;"
@@ -19,7 +19,7 @@ width: full
 
   {{< card
   link="https://youtu.be/ljc7iX7AR5Q"
-  image="https://i9.ytimg.com/vi/ljc7iX7AR5Q/mq2.jpg?sqp=CKil2MkG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgYihMMA8=&rs=AOn4CLCIMLBozUOPN49VFQg8c2HEksIXiw"
+  image="https://img.youtube.com/vi/ljc7iX7AR5Q/hqdefault.jpg"
   title="Introduction to Gaussian Processes"
   subtitle="A blackboard talk introduction to Gaussian Processes, given as part of the Data Analysis Tutorial series at the Center for Computational Astrophysics at the Flatiron Institute"
   imageStyle="object-fit:cover; aspect-ratio:16/9;"
