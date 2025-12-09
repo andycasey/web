@@ -9,12 +9,23 @@ width: full
 
 {{< cards >}}
   {{< card
+  link="https://www.youtube.com/watch?v=b8Emg4su1xs"
+  image="https://img.youtube.com/vi/b8Emg4su1xs/hqdefault.jpg"
+  title="Flexible forward models for spectroscopy"
+  subtitle="Spectroscopy is information-rich and systematics-dominated."
+  imageStyle="object-fit:cover; aspect-ratio:16/9;"
+  tag="2025"
+  location="Australian National University, Canberra"
+  >}}
+
+  {{< card
   link="https://youtu.be/-7VOu8ZlhLI"
   image="https://img.youtube.com/vi/-7VOu8ZlhLI/hqdefault.jpg"
   title="Dear NASA: ADS. SciX. WTF?"
   subtitle="A Coffee Talk about NASA's Astrophysics Data System, given at the Flatiron Institute's Center for Computational Astrophysics in New York City"
   imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  tagType="error"
+  tag="2025"
+  location="Flatiron Institute, New York City"
   >}}
 
   {{< card
@@ -23,7 +34,8 @@ width: full
   title="Introduction to Gaussian Processes"
   subtitle="A blackboard talk introduction to Gaussian Processes, given as part of the Data Analysis Tutorial series at the Center for Computational Astrophysics at the Flatiron Institute"
   imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  tagType="error"
+  tag="2025"
+  location="Flatiron Institute, New York City"
   >}}
 
   {{< card
@@ -32,7 +44,8 @@ width: full
   title="Modeling the interstellar medium with Fourier-accelerated Gaussian Processes"
   subtitle="A `manim`-style talk given at the Flatiron Institute's Center for Computational Astrophysics in New York City"
   imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  tagType="error"
+  tag="2025"
+  location="Flatiron Institute, New York City"
   >}}
 
 {{< /cards >}}
