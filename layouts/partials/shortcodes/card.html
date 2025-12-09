@@ -1,0 +1,85 @@
+{{- $page := .page -}}
+{{- $link := .link -}}
+{{- $title := .title -}}
+{{- $icon := .icon -}}
+{{- $subtitle := .subtitle -}}
+{{- $image := .image -}}
+{{- $width := .width -}}
+{{- $height := .height -}}
+{{- $imageStyle := .imageStyle -}}
+{{- $tag := .tag -}}
+{{- $tagType := .tagType -}}
+{{- $location := .location -}}
+
+{{ $linkClass := "hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900" }}
+{{- with $image -}}
+  {{ $linkClass = "hover:hx-border-gray-300 hx-bg-gray-100 hx-shadow dark:hx-border-neutral-700 dark:hx-bg-neutral-800 dark:hx-text-gray-50 hover:hx-shadow-lg dark:hover:hx-border-neutral-500 dark:hover:hx-bg-neutral-700" }}
+{{- end -}}
+
+{{- $external := strings.HasPrefix $link "http" -}}
+{{- $href := cond (strings.HasPrefix $link "/") ($link | relURL) $link -}}
+
+
+<a
+  class="hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 {{ $linkClass }}"
+  {{- if $link -}}
+    href="{{ $href }}"
+    {{ with $external }}target="_blank" rel="noreferrer"{{ end -}}
+  {{- end -}}
+>
+  {{- with $image -}}
+    <div class="hextra-card-image-container hx-relative">
+      <img
+        alt="{{ $title }}"
+        class="hextra-card-image"
+        loading="lazy"
+        decoding="async"
+        src="{{ $image | safeURL }}"
+        {{ with $width }}width="{{ . }}"{{ end }}
+        {{ with $height }}height="{{ . }}"{{ end }}
+        {{ with $imageStyle }}style="{{ . | safeCSS }}"{{ end }}
+      />
+      {{- if $tag }}
+        {{- partial "shortcodes/badge.html" (dict
+          "content" $tag
+          "type" $tagType
+          "class" "hextra-card-tag"
+          "border" true
+          )
+        -}}
+      {{- end -}}
+    </div>
+  {{- end -}}
+
+  {{- $padding := "hx-p-4" -}}
+  {{- with $subtitle -}}
+    {{- $padding = "hx-pt-4 hx-px-4" -}}
+  {{- end -}}
+
+
+  <span class="hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 {{ $padding }} hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50">
+    {{- with $icon }}{{ partial "utils/icon.html" (dict "name" $icon) -}}{{- end -}}
+    {{- $title -}}
+  </span>
+  {{- with $subtitle -}}
+    <div class="hextra-card-subtitle hx-line-clamp-3 hx-text-sm hx-font-normal hx-text-gray-500 dark:hx-text-gray-400 hx-px-4 hx-mb-2 hx-mt-2">{{- $subtitle | markdownify -}}</div>
+  {{- end -}}
+  {{- with $location -}}
+    <div class="hextra-card-location">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+      {{- $location -}}
+    </div>
+  {{- end -}}
+
+  {{- /* Tag for cards without images - keep at bottom */ -}}
+  {{- if and $tag (not $image) }}
+    {{- partial "shortcodes/badge.html" (dict
+      "content" $tag
+      "type" $tagType
+      "class" "hextra-card-tag"
+      "border" true
+      )
+    -}}
+  {{- end -}}
+</a>
+{{- /* Strip trailing newline. */ -}}
