@@ -1,0 +1,41 @@
+/* Move card tag to bottom-left of image */
+.hextra-card-tag {
+  position: absolute;
+  bottom: auto;
+  top: auto;
+  right: auto;
+  left: 5px;
+  z-index: 10;
+}
+
+/* Position tag relative to image container */
+.hextra-card-image-container {
+  position: relative;
+}
+
+.hextra-card-image-container .hextra-card-tag {
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  top: auto;
+  right: auto;
+}
+
+/* Add spacing between title and subtitle */
+.hextra-card-icon {
+  margin-bottom: 0.5rem;
+}
+
+/* Location styling - not truncated */
+.hextra-card-location {
+  font-size: 0.75rem;
+  color: #6b7280;
+  padding: 0 1rem 0.75rem 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.dark .hextra-card-location {
+  color: #9ca3af;
+}
