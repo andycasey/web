@@ -4,3 +4,8 @@ command = "hugo --gc --minify -b ${DEPLOY_PRIME_URL}"
 
 [build.environment]
 HUGO_VERSION = "0.147.7"
+
+[[redirects]]
+from = "/trains"
+to = "https://mon-commute.vercel.app/"
+status = 301
