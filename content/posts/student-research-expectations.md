@@ -2,6 +2,7 @@
 title: Research Expectations
 description: "Explicit research expectations for current and prospective students."
 date: 2019-09-08
+modified: 2026-01-17
 authors:
   - name: Andy Casey
     link: https://astrowizici.st
@@ -14,95 +15,94 @@ tags:
 **Expectations are a two-way street.**
 
 
-This document summarises my expectations for current and prospective research students. Explicitly listing expectations means that prospective students know what kind of working environment they can expect, and current student know what's expected of them during their research project.
+This document shares my expectations for current and prospective research students. By making these expectations explicit, prospective students can understand the kind of working environment they can expect, and current students know what's expected of them during their research project.
 
 > [!NOTE]
-> This document gets a variety of feedback. Some find it helpful. Some find it terrifying. Read it with a grain of salt. Remember that everyone has expectations, but your supervisor might not have told you what they are, leaving it to you to figure it out. And remember that these expectations are not set in stone. I have a different expectation document for every student I supervise, where they have _explicitly_ listed their expectations of me, and we have worked through any mis-matches. This document is a starting point for that discussion.
+> This document receives a variety of feedback. Some find it helpful as a clear guide. Others find it overwhelming at first. Please read it as a conversation starter rather than a stone tablet of commandments. Remember that everyone has expectations, but your supervisor might not have shared their expectations explicitly with you, leaving it to you to figure out through trial and error. Instead, I work with every student individually to create a personalized expectations document where _you_ have explicitly listed _your_ expectations of _me_, and we work through any differences together. This document is simply a starting point for that collaborative discussion.
 
-There is an overwhelming level of evidence indicating that explicitly listing expectations (from both parties) leads to higher research outputs, happier students and researchers, and a more effective and friendly working environment. For these reasons I _strongly_ encourage all students to document their expectations of supervisors so that any mis-matches (e.g. in working style, demands, or expected outputs) are identified and worked through early on. There are many resources online<d-cite key="Masters:2017,imperial_expectations"></d-cite> that will help guide a student in making their implicit expectations explicit.
+There's strong evidence that explicitly discussing expectations (from both parties) leads to better research outcomes, happier students and researchers, and a more effective and collaborative working environment. For these reasons I encourage all students to document their expectations of supervisors so that any differences (e.g., in working style, communication preferences, or expected outputs) can be identified and discussed early on. There are many helpful resources online<d-cite key="Masters:2017,imperial_expectations"></d-cite> that can guide you in articulating your expectations.
 
 ### Meetings
 
-- We should meet weekly, at least. The frequency and length of meetings will vary for each student during the course of their research. It might be hourly meetings once a week, or five minute daily check-ins.
-- <a href="../contact/#scheduling">Schedule meetings in my calendar</a>. If a meeting isn't in my calendar, it doesn't exist. If you can't meet my <a href="../contact/#scheduling">scheduling constraints</a>, then explain why in the notes of the Calendar invite. It shows me that you tried!
-- Don't send an email to arrange a meeting; just send a calendar invite.
-- _Pro-Tip_&trade;: In Google Calendar click on _Settings_ and navigate down to _Event settings_. Set _Default guest permissions_ to 'Modify event'. That means if something changes last minute, or the time you have proposed is not ideal, then I can directly move the meeting time in both of our calendars. Without this setting it means I have to decline the event and create a new event that has all of your notes and location information.
-- Default meeting times to 30 minutes unless you really think we need an hour. This is more of a guideline than a rule. In general you should consider how much of my time you need, and schedule for that. It's OK if we finish early, and if we don't get through everything then we already have things to discuss next time.
-- Come prepared to meetings. Bring a notebook. Bring plots. Lots of them.
-- <b>Bring an agenda to each meeting that includes:</b> progress summary, decisions that need making, questions, etc.
+- I recommend we meet weekly, at least. The frequency and length of meetings will vary for each student and will change throughout your research journey. It might be hourly meetings once a week, or brief daily check-ins—whatever works best for you. And it might change with time. At the start, you may want to meet more frequently. When you're in a good productive groove, you might want to meet less frequently.
+- Please <a href="../contact/#scheduling">schedule meetings in my calendar</a>. Calendar invites help me keep track of commitments. If my <a href="../contact/#scheduling">scheduling constraints</a> don't work for you, please let me know why in the notes of the calendar invite—it shows me you've considered the scheduling!
+- Calendar invites work better than emails for scheduling—they go directly into both our calendars.
+- _Pro-Tip_&trade;: In Google Calendar, click on _Settings_ and navigate to _Event settings_. Set _Default guest permissions_ to 'Modify event'. This allows me to adjust the meeting time directly if needed, rather than having to decline and recreate events.
+- I generally suggest 30-minute meetings unless you feel we need more time. Think about how much time you need and schedule accordingly. It's perfectly fine if we finish early, and if we don't cover everything, we'll have a head start on next week's agenda.
+- Come prepared to meetings -- it helps our time together be more productive. Bringing a notebook and plots (lots of them!) can be really helpful. I recommend a joint Google Document that tracks all meeting topics and discussion points throughout your project.
+- <b>Consider bringing an agenda to each meeting that includes:</b> progress summary, decisions that need discussion, and questions you have.
 - <b>On plots:</b>
-    - Before you make a plot you should have some _prior_ or _expectation_ about what that plot will show you: what the data will look like, how you will interpret it, and what the _primary message of that plot is_.
-    - A great plot won't need an accompanying explanation. It should speak for itself. That means your plot needs axes, labels, legends, etc.
-    - You should be able to interpret and explain the broader implications of every plot you show me.
-    - You should have <b>an opinion</b> about every plot you show me. Are things working? Why? What did you _expect_ that plot to show? If it's not working, why do you think that is? How could you find out? What have you tried already? What will you try next?
+    - Before making a plot, consider what you expect it will show: what the data might look like, how you'll interpret it, and what the primary message is.
+    - The best plots speak for themselves. Axes, labels, and legends help tell the story.
+    - Try to interpret and explain the broader implications of the plots you share.
+    - <b>Have an opinion</b> about your plots. Are things working as expected? Why or why not? What did you anticipate? If something seems off, what might explain that? What could you try next?
 
 ### Communication
 
-- My personal mobile phone number is in my email signature. That doesn't mean I want you to call or message me. <b>Only</b> do that if it's a crisis or emergency. Text messages or personal phone calls are not for science questions. I will probably ignore them. <d-footnote>Once a student was annoyed I didn't respond to a text message about a plot. It wasn't urgent. It wasn't for a grant, or a job application, or a telescope proposal, or anything with a deadline. They just wanted an answer. _Now_. At 16:00 on a Saturday.
+- My personal mobile phone number is in my email signature for emergencies only. Please reserve calls or text messages for genuine crises. For science questions, email or Slack work much better.<d-footnote>Once a student was frustrated I didn't respond to a Saturday afternoon text message about a plot. It wasn't urgent or time-sensitive. There was no grant, job application, or deadline involved. They just wanted an answer right away.
 
-    At that time I didn't reply because I was four meters up on a wobbly ladder fixing weatherboards on the side of my house, right next to power lines, in the middle of summer.
+    At that moment, I was four meters up on a wobbly ladder fixing weatherboards beside power lines, in summer heat. So I wasn't really able to evaluate plots at that time.
 
-    I also didn't reply because <b>don't text messages about science questions</b>.</d-footnote>
+But more importantly: text messages aren't the right channel for science discussions, as they don't allow for thoughtful, detailed responses.</d-footnote>
 
-- I am not 'always on' for emails, or Slack. I turn both off when I want to focus on research. That means I respond to emails in blocks: all in the morning, or in the evening, or at some point. So you won't get a response immediately. If it's not urgent, you can expect to wait about a day before getting an email response from me.
-- Every Friday I try to finish the week by being at <a href="https://twitter.com/search?q=%23InboxZero">#InboxZero</a>. It doesn't always work.
-- Consider that email response time before you email with a problem. Can you solve the problem in the same time? Even if you _think_ you can't, just try the following:
+- I work in focused blocks and turn off email and Slack when I'm deep in research or other tasks. This means I respond to emails in batches: usually morning or evening. You can typically expect a response within about a day for non-urgent matters.
+- Every Friday I aim for <a href="https://twitter.com/search?q=%23InboxZero">#InboxZero</a>. Sometimes I make it!
+- Before emailing with a problem, consider whether you might solve it in the same timeframe. Here's a technique that many find helpful:
 
-    1. Draft an email to me that succinctly and specifically describes the problem.
-    2. Don't send the email; save it.
-    3. The process of writing that email can help clarify your thoughts.
-    4. Use that clear mind to solve the problem.
-    5. Delete the email. <d-footnote>Or better yet, store it in an archive of emails you never sent: problems you solved that you didn't think you could at the time!</d-footnote>
+    1. Draft an email that clearly and specifically describes the problem.
+    2. Save it as a draft instead of sending.
+    3. The process of writing often helps clarify your thoughts.
+    4. Use that clarity to tackle the problem yourself.
+    5. Delete the draft. <d-footnote>Or better yet, keep an archive of emails you didn't need to send—a record of problems you solved independently!</d-footnote>
 
 ### Professionalism
 
-- Be kind to people. If you have to critic an idea, make sure you shield and promote the person who proposed that idea. I have no time or tolerance for racism, sexism, bullying, harrassment, or any variation thereof. Institutes and companies _say_ they have a zero tolerance policy for this kind of thing, but I _really_ do. I'll call the behaviour out the first time. If I think the behaviour is systemic I'll remove myself as a supervisor, and if it's reportable I'll report it. Whatever implications that has for you are on you!
+- Please be kind to people. When critiquing ideas, make sure you support and encourage the person who proposed them. I'm committed to creating a welcoming environment free from racism, sexism, bullying, harassment, or any related behavior. I'll address concerning behavior directly the first time I observe it. If behavior seems systemic or reportable, I'll take appropriate action, which may include stepping back as supervisor or filing reports as needed.
 
-- Respect other peoples' time. Don't ask people questions that Google, or the literature, can easily tell you. As an example, if I can type your spoken words into Google and find the answer then it's a waste of both our time.<d-footnote>See _'How to impress academics'_ below.</d-footnote>
+- Please respect others' time. Try to find answers through Google or the literature before asking colleagues. If you can find the answer by searching online, it's worth trying that first.<d-footnote>See _'How to make the most of your supervisor's time'_ below.</d-footnote>
 
-- It's academia, and you have academic freedom. That means you have flexible working conditions. Work whenever you want, but I expect that you have at least _some regular overlap during business hours_. You should be _part_ of the de<i>part</i>ment.
+- Academia offers academic freedom and flexible working conditions. You're welcome to work when you prefer, though having some regular overlap during business hours helps us collaborate effectively and helps you feel connected to the department community.
 
-- Treat research like a job. (Whatever that means to you.)
+- Think of research as a professional endeavor. This is a workplace that we share with many colleagues.
 
-- Treat research like a profession, in that this is a workplace. It's not anyone's personal space. That means be professional in your interactions.
+- Be professional in your interactions, keeping in mind that this is a shared workspace where everyone should feel comfortable.
 
 ### Research practices
-- Bring a notebook. Take notes.
-- Find a note-taking system that works for you. Options include a Google Slide deck where you can throw plots in, or Evernote, Google Docs, or a physical notebook. 
-- Set up a data backup system that is <b>impervious from you fucking it up</b>. <d-footnote>I couldn't destroy my backup system if I wanted to. All code is on GitHub. I make all presentations in Google Slides. My laptop is automagically backed up over wifi to a RAID-5 volume on a network attached storage device. Weekly backups are copied remotely to three separate locations. As David W. Hogg would threaten: _"I should be able to throw your laptop in the Hudson river today and you should be working tomorrow without <b>any</b> loss of productivity."_</d-footnote>
-- Use GitHub (or similar) to store your code. You get unlimited private repositories if you sign up using your Monash account. If you're coding then you should be pushing commits about every ten minutes.
-- Use GitHub to write papers. Don't use Overleaf or any variant thereof. <b>That stuff is total trash</b>. <d-footnote>Yes, I will fight you about this. Please <a href="../../contact/#scheduling">schedule a time</a> for our fight.</d-footnote>
-- Jupyter notebooks are great, but if you have a weird bug you should restart the kernel before you talk to me. You may have a <a href="https://lmgtfy.com/?q=state+error+jupyter+notebook">state error</a>.
-- If you have a code or data analysis problem you want my help with then you should create a <a href="https://lmgtfy.com?q=minimum+reproducible+example">minimum reproducible example</a>. Doing this will probably help you solve your problem!
-- Read the literature. Read <a href="https://arxiv.org/archive/astro-ph">astro-ph</a>. Either sign up to daily emails or develop a system that works for you. Either way: read it. Skim titles and abstracts, and read relevant papers.
-- On writing: don't send me your first draft. Send me your fifth and tell me it's your first _public_ draft. You're wasting my time if I am correcting your typos. Nothing infuriates humans more.
-- Learn to write. Read creative writing books and <b>do. what. they. say.</b> <d-cite key="Truss:2003,Klinkenborg:2012,Heard:2016,Strunk"></d-cite>
-- Go to seminars. I don't care if you feel busy. An _expert_ has travelled away from their _family and work_ to distill _everything they know about a topic_ and you are _encouraged_ to ask them questions. It's the speakers' job to give cogent answers. You learn. You build breadth of knowledge. You network. And it's about being _part_ of the de<i>part</i>ment.
-- Interact with the seminar speakers. Go to coffee with them. Speak with them at lunch afterwards. _I cannot even express how important this is._
-- If you really want to Win The Game: read a paper by the seminar speaker before they arrive. Even better if it's on the topic of their talk. Ask them good questions about their paper/science _before_ their talk.
+- Bringing a notebook and taking notes can be incredibly helpful.
+- Find a note-taking system that works for you. Options include Google Slide decks for collecting plots, Evernote, Google Docs, or physical notebooks.
+- Set up a robust data backup system.<d-footnote>My backup system is comprehensive and automatic. All code lives on GitHub. Presentations are in Google Slides. My laptop backs up automatically over wifi to a RAID-5 network storage device. Weekly backups are copied to three remote locations. As David W. Hogg likes to say: _"I should be able to throw your laptop in the Hudson river today and you should be working tomorrow without any loss of productivity."_</d-footnote>
+- I recommend using GitHub (or similar) for your code. You get unlimited private repositories with your educational account. Regular commits (every 10-15 minutes when actively coding) help protect your work.
+- I prefer GitHub for writing papers rather than Overleaf or similar platforms, as it offers better version control and collaboration features.
+- Jupyter notebooks are wonderful tools, but not always the right tool you need. If you encounter a weird bug in a Jupyter notebook, try restarting the kernel before we troubleshoot together—sometimes it's a <a href="https://lmgtfy.com/?q=state+error+jupyter+notebook">state error</a>.
+- If you'd like my help with a code or data analysis problem, creating a <a href="https://lmgtfy.com?q=minimum+reproducible+example">minimum reproducible example</a> is really helpful. This process often helps you solve the problem yourself!
+- Stay connected with the literature. Read <a href="https://arxiv.org/archive/astro-ph">astro-ph</a> regularly—either through daily emails or a system that works for you. Skimming titles and abstracts, and reading relevant papers, keeps you current.
+- On writing: I'm most helpful when reviewing polished drafts rather than early versions. Consider your n-th draft as your first draft to share. This way I can focus on substantive feedback rather than typos and basic edits.
+- I encourage you to learn about writing craft. Creative writing books have excellent advice that applies to scientific writing too.<d-cite key="Truss:2003,Klinkenborg:2012,Heard:2016,Strunk"></d-cite>
+- Attending seminars is valuable for many reasons. An expert has traveled from their work and family to share their knowledge, and you're invited to ask questions. You'll build knowledge, learn new things, network, and feel more connected to the department community. It doesn't matter whether the topic is related to your own, or not.
+- I highly encourage interacting with seminar speakers. Join them for coffee or lunch. These interactions can be incredibly valuable for your development.
+- Want to make a great impression? Read one of the speaker's papers before they arrive, especially if it relates to their talk topic. This preparation leads to meaningful conversations.
 
 
-If you disagree with any of these expectations you should <a href="../../contact/">tell me you do</a> because this is a _living document_ and feedback is how we all navigate this world.
+If you disagree with any of these expectations, please <a href="../../contact/">let me know</a>—this is a living document and your feedback helps improve it.
 
-### How to impress academics
+### How to make the most of your supervisor's time
 
-What follows below are not expectations _per se_ but are good tips on how to impress academics. Many students find these kinds of tips useful to make sure time with their supervisor is effectively spent. You should know that you don't necessarily have to 'impress' _anyone_ during your career. But most researchers with good jobs (in industry and academia) were undoubtedly helped by the positive impressions they made on well-known people throughout their career. In the future those people you impress could be your supervisors, mentors, letter-writers, or people who chair fellowship or tenure committees.
+What follows are not strict expectations but rather tips that many students have found helpful for effective collaboration with supervisors. You don't have to "impress" anyone to have a successful career, though building positive working relationships with mentors, supervisors, and colleagues certainly helps. These people may become letter-writers, mentors, or advocates for you in the future.
 
-- <b>Do lots of consistently good work.</b> To be great just means to do lots of consistently good things.
-- <b>Do not bother academics with minor problems.</b> Solve them yourself. Search Google, search the literature, and develop a plan of things to test that will help solve your problem. Document your progress so you don't get stuck in a rabbit hole. Ask more senior students or junior post-docs.
-- <b>Interact on a regular basis (e.g., weekly, bi-weekly).</b> Keep a constant stream of positive communication (e.g., results and progress).
-- <b>Bring lots of plots to meetings.</b> But don't just make plots for the sake of making plots. There should be a _reason_ or _meaning_ you want to convey for every plot you present. Before you make a plot you should have an _expectation_ for what the data, and that plot, should look like. You should _have an opinion_ about every plot you make. After you've made a plot, ask: what plots would they want to see next?
-- <b>Don't miss meetings or deadlines.</b> If you can see you are not going to make a deadline, communicate and re-schedule it the moment you know.
-- <b>Learn from them.</b> Bring a notebook to every meeting. Use it. By taking notes you are consolidating your understanding. Making sure they don't have to say the same thing to you twice.
-- <b>Give them excellent first drafts of papers.</b> Don't send them your first draft. Send them your fifth draft, or tenth, and tell them it's your first public draft. In order to write excellent papers you must read (many) papers.
+- <b>Do consistent, thoughtful work.</b> Excellence comes from doing many things well over time.
+- <b>Try to solve minor problems independently first.</b> Search Google, review the literature, develop a testing plan, and document your progress. Reach out to peers or junior post-docs. This builds your problem-solving skills.
+- <b>Maintain regular contact (e.g., weekly or bi-weekly).</b> Consistent communication about progress and results helps maintain momentum.
+- <b>Bring plots to meetings.</b> Make sure each plot has a purpose and message. Before creating a plot, think about what you expect to see. Have an opinion about what each plot shows. Consider what plots might be useful to make next.
+- <b>Communicate about scheduling.</b> If you realize you might miss a meeting or deadline, let me know as soon as possible so we can adjust plans.
+- <b>Take notes.</b> Bringing a notebook to meetings and using it helps consolidate understanding and ensures we can build on previous conversations.
+- <b>Share polished drafts.</b> When you're ready to share writing, spend time revising first. Consider your fifth or tenth draft as your first shareable version. Reading many papers helps you write better ones.
 
-### Research has feedback and momentum, and it's not for everyone
+### Research requires momentum and commitment, and different paths work for different people
 
-Academics can identify which students are really committed to their research project, and those that are not. The more you contribute to a project, the more of my time and resources you will get.
+I can tell when students are deeply engaged with their research, and I naturally invest more time and resources in students who are actively contributing to their projects.
 
-Lastly, you should recognise that most doctoral students do not continue in academia. Perhaps 1% of successful doctoral students will be offered a tenured position at a research institution. That means <b>academia _is_ the alternative career path!</b> You should do whatever makes you happiest, but you should let your supervisors and mentors know what your 5 year and 10-year goals are. If you don't have career goals on 5- and 10-year timescales, you should start making some. Don't let your career happen by chance. Tell your supervisors and mentors what those goals are, and how you plan to achieve them. They will help guide and challenge you.
+It's worth noting that most doctoral students don't continue in academia long-term. Perhaps 1% of doctoral graduates will secure tenured positions at research institutions. That means <b>academia is actually the alternative career path!</b> Whatever makes you happiest is the right choice. I encourage you to share your 5-year and 10-year career goals with your supervisors and mentors. If you haven't thought about career goals on these timescales, it's worth starting. Being intentional about your career path—rather than letting it happen by chance—helps you make good decisions. Share your goals with your supervisors and mentors; we're here to help guide and support you.
 
 ### Contributions
 
-The section on _"How to impress academics"_ were inspired by <a href="https://astro3d.org.au/about/our-people/">Professor Lisa Kewley</a> (ANU), Professor Matthew Colless (ANU), and Professor Darren Croton (Swinburne) based on an Astro3D workshop in 2019, held at the Australian National University.
-
+The section on _"How to make the most of your supervisor's time"_ was inspired by <a href="https://astro3d.org.au/about/our-people/">Professor Lisa Kewley</a> (ANU), Professor Matthew Colless (ANU), and Professor Darren Croton (Swinburne) based on an Astro3D workshop in 2019, held at the Australian National University.
